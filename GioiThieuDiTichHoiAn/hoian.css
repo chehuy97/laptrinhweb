@@ -1,0 +1,161 @@
+/*websitehoian*/
+/*login*/
+.login{
+	background-color: #222;
+	padding-left: 54%;
+	font-size: 12px;
+}
+.login_b{
+	font-size: 14px;
+	margin-right: 10px;
+	color: white;
+}
+.login_p{
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.login_in{
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+	border-radius: 5%;
+	font-size: 13px;
+	color: black;
+}
+/*sidebar*/
+.sidebar_nav{
+	border-radius: 0%;
+	padding-left: 2%;
+	border-color: #222;
+	height: 40px;
+	margin-bottom: 0px;
+}
+.content{
+	background-image: url(image/hoian.jpg);
+	width: 1366px;
+	height: 612px;
+}
+/*gioithieu*/
+.gioithieu_border{
+	border: solid black 2px;
+	background-color: white;
+	width: 80%;
+	border-radius: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 10%;
+	padding-bottom: 10%;
+	padding-top: 2%;
+}
+.gioithieu_topic{
+	margin-left: 35%;
+	font-size: 46px;
+	color: #990000;
+
+}
+.gioithieu_img{
+	margin-top: 3%;
+	margin-left: 29%;
+	margin-bottom: 2%;
+	width: 450px;
+	height: 270px;
+}
+.gioithieu_p{
+	padding-left: 5%;
+	padding-right: 5%;
+	font-size: 20px;
+}
+/*dulich*/
+.dulich_topic{
+	margin-left: 26%;
+	color: #990000;
+}
+/*banggia*/
+.banggia_topic{
+	margin-left: 33%;
+	color: #990000;
+}
+.banggia_table{
+	margin-left: 5%;
+    font-size: 20px;
+    margin-top: 2%;
+}
+/*bando*/
+.bando_b{
+	margin-left: -22%;
+	margin-top: 2%;
+    font-size: 46px;
+    color: #990000;
+}
+.bando_img{
+	margin-top: 2%;
+	margin-left: 10%;
+	margin-bottom: 1.5%
+}
+.bando_i{
+	margin-left: 40%;
+	font-size: 17px;
+	margin-top: 3%;
+}
+/*capnhat*/
+.capnhat_div{
+	border:solid 2px black;
+	margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.capnhat_b{
+	font-size: 35px;
+    margin-right: 15px;
+}
+.capnhat_topic{
+    color: #990000;
+    font-size: 42px;
+    margin-left: 36%;
+    padding-top: 2%;
+}
+/*trogiup*/
+.trogiup_img{
+	width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    border: solid 2px green;
+    margin-top: 3%;
+    margin-right: 30%;
+    margin-bottom: 3%;
+}
+.trogiup_b{
+	padding-left: 28%;
+    color: white;
+    font-size: 28px;
+}
+/*them*/
+.them_div{
+	border:solid 2px black;
+	margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.them_topic{
+	margin-left: 36%;
+	color: #990000;
+	font-size: 43px;
+}
+.them_p{
+	font-size: 32px;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.them_input{
+	margin-left: 4%;
+    font-size: 25px;
+    width: 92%;
+}
+.them_sub{
+	width: 160px;
+	margin-left: 42%;
+	margin-top: 3%;
+}
